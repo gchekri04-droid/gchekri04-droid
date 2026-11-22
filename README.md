@@ -12,6 +12,6 @@ I keep **GMP pharmaceutical production lines** running reliably, compliantly and
 **Projects**
 - 🔎 [**AlarmLens**](https://github.com/gchekri04-droid/alarmlens): finds the alarms overloading operators. It scores SCADA alarm logs against ISA-18.2 style benchmarks and suggests what to fix first.
 - 📈 **Rules-based trading desk** (private): backtested strategies, plus a daily AI agent with hard risk interlocks and a trade journal.
-- 🤖 [**KAIRO**](https://github.com/gchekri04-droid/kairo): a free, offline desktop AI assistant for Windows, with voice, PC control and Git help.
+- 🤖 [**VEXOR**](https://github.com/gchekri04-droid/vexor): a free, offline desktop AI assistant for Windows, with voice, PC control and Git help.
 
 🌐 **Portfolio:** [gchekri04-droid.github.io](https://gchekri04-droid.github.io)
